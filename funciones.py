@@ -32,4 +32,7 @@ suma_pe(5, 7)
 suma_p()
 print (sumar(5, 7))
 
+almacena_resultado = sumar(5, 8)
+print(almacena_resultado)
+
 
