@@ -7,4 +7,8 @@ def mensaje():#declaracion de la funcion
 #fin funcion
 
 mensaje() #llamada a la funcion.
+mensaje()
+mensaje()
+print("Ejecutando codigo fuera de la funcion")
+
 
